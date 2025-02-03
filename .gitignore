@@ -1,6 +1,35 @@
-bin/
-obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+.virtualenv/
+
+# IDE / Editor files
+.vscode/
 .idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs & Debug
+logs/
+*.log
+
+# Dependencies
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# Environment variables
+.env
+.env.*

@@ -1,0 +1,14 @@
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\bin\Debug\net8.0\RockAndPapirus.exe
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\bin\Debug\net8.0\RockAndPapirus.deps.json
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\bin\Debug\net8.0\RockAndPapirus.runtimeconfig.json
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\bin\Debug\net8.0\RockAndPapirus.dll
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\bin\Debug\net8.0\RockAndPapirus.pdb
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\obj\Debug\net8.0\RockAndPapirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\obj\Debug\net8.0\RockAndPapirus.AssemblyInfoInputs.cache
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\obj\Debug\net8.0\RockAndPapirus.AssemblyInfo.cs
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\obj\Debug\net8.0\RockAndPapirus.csproj.CoreCompileInputs.cache
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\obj\Debug\net8.0\RockAndPapirus.dll
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\obj\Debug\net8.0\refint\RockAndPapirus.dll
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\obj\Debug\net8.0\RockAndPapirus.pdb
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\obj\Debug\net8.0\RockAndPapirus.genruntimeconfig.cache
+C:\Users\Daniil dev\RiderProjects\RockAndPapirus\RockAndPapirus\obj\Debug\net8.0\ref\RockAndPapirus.dll
